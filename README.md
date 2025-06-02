@@ -1,4 +1,4 @@
-# eToro Hiring Process Assignment Prooposed Solution
+# eToro Hiring Process Assignment Proposed Solution
 
 I implemented the momentum strategy and applied it over a big stocks corpus (~3000 individual stocks) over a long time span (14-20 years).
 
