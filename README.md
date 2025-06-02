@@ -8,4 +8,4 @@ The main improvement I applied is to use machine learning models to identify the
 
 Unlike the original momentum strategy which relied slowly on the performance of the stock in a short time range, my algorithm takes into account multiple features per stock over a longer time range.
  
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/abrahami/portfolio-optimization-strategies/blob/main/enhanced_momentum_NAVs_own_capital_0_start_date2010-01-01.png) "Logo Title Text 1")
+![alt text](enhanced_momentum_NAVs_own_capital_0_start_date2010-01-01.png) "Logo Title Text 1")
